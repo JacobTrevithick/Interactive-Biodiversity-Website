@@ -1,5 +1,7 @@
 const samplesPath = "data/samples.json";
 
+console.log('hello');
+
 function init() {
     // Initialize Hbar chart, bubble chart, demo info, gauge chart
 
