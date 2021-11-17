@@ -1,4 +1,4 @@
-const samplesPath = "Interactive-Web-Design-Challenge/data/samples.json";
+const samplesPath = "data/samples.json";
 
 function init() {
     // Initialize Hbar chart, bubble chart, demo info, gauge chart
